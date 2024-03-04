@@ -72,7 +72,7 @@
 		<div id="img">
 
 			<!--Image of the Tribute Person-->
-			<img src="abdulKalam"
+			<img src="1367925-apj-abdul-kalam.webp"
 				id="image"
 				alt="Error Loading Image">
 			<small id="caption">
