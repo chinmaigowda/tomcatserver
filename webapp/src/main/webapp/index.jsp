@@ -7,7 +7,7 @@
 		like body color and margin */
 
 		body {
-			background-color: #00FA9A;
+			background-color: #ffffff;
 			margin: 20%;
 		}
 
